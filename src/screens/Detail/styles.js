@@ -71,7 +71,7 @@ export default StyleSheet.create({
     position:'absolute',
     // width:'100%',
     // backgroundColor: 'aqua',
-    top: Scaling.moderateScale(110),
+    top: Scaling.moderateScale(100),
     flexDirection: 'row',
     justifyContent:'space-between',
     paddingHorizontal: Scaling.moderateScale(2)
